@@ -1,0 +1,28 @@
+{
+  "targets": {
+    "firechat-cac54": {
+      "hosting": {
+        "fireChat": [
+          "firechat-cac54"
+        ]
+      }
+    },
+    "firechat2-768a4": {
+      "hosting": {
+        "fireChat": [
+          "firechat2-768a4"
+        ]
+      }
+    },
+    "firechat-63a30": {
+      "hosting": {
+        "fireChat": [
+          "firechat-63a30"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firechat-63a30"
+  }
+}

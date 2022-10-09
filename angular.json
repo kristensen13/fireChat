@@ -98,6 +98,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "fireChat:build:production",
+            "firebaseProject": "firechat-63a30",
+            "firebaseHostingSite": "firechat-63a30"
+          }
         }
       }
     }
